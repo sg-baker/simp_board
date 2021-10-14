@@ -21,7 +21,7 @@ import json
 # CONSTANTS
 SCOPE = ["https://spreadsheets.google.com/feeds"]
 SECRETS_FILE = r"C:\\Users\samue\\OneDrive\Desktop\Simp_Board\simp-board-python-api-dc14d963eea5.json"
-SPREADSHEET = "SIMP BOARD Coaches Poll April '21 (Responses)"
+SPREADSHEET = "Simpboard Responses"
 # Have to change the name of the spread sheet if using a new spreadsheet
 
 # Authentication with google sheets and gspread
