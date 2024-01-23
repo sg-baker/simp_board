@@ -8,7 +8,7 @@ This uses python's matplotlib and Google Forms and Google Sheets' API to allocat
 data from the sheet, designates it to each person object, sorts those person objects, and then creates a bar graph of everyone in order. 
 This isn't too advanced and isn't very impressive, but I had fun making this and thought it would be good to put up here for archiving.
 
-Also, if you're reading, Jesus loves you and died for you and has an incredible plan for your life if you would only follow him.
+Also, if you're reading, Jesus is King of Kings and Lord of Lords and is ready to forgive if you turn to Him in repentance.
 Ephesians 2:1-5
 
 Blessings,
